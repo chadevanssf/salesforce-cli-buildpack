@@ -25,6 +25,7 @@ source $BP_DIR/lib/stdlib.sh
 
 install_sfdx_cli() {
   npm install sfdx-cli --global
+  npm install vlocity --global
 }
 
 setup_dirs() {
