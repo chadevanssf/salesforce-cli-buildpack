@@ -32,7 +32,7 @@ setup_dirs() {
   export PATH="$BUILD_DIR/vendor/sfdx/cli/bin:$PATH"
 }
 
-header 'Welcome to salesforce-cli-buildpack!'
+header 'Welcome to salesforce-cli-sfi-buildpack!'
 log "Exporting environment directories ..."
 export_env "$ENV_DIR"
 
