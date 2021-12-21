@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
 
-echo "salesforce-cli-buildpack"
+echo "salesforce-cli-sfi-buildpack"
 exit 0
